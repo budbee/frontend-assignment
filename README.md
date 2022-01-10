@@ -38,3 +38,6 @@ A: Use anything you feel comfortble with, but consider how to best show us your 
 
 Q: How much time to I have? 
 A: Spend a reasonable amount of time (to you). If you have ideas that you don't have time to implement, feel free to add comments and bring them up in the technical interview.
+
+Q: Do I have to build the backend?
+A: You don't need to build any backend. You can store the data temporarily or use local storage for example.
