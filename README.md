@@ -16,6 +16,10 @@ As a user, one should be able to
 
 It would be nice if one could also sort and search for them, but that might be a future feature (optional).
 
+### Wireframe
+
+![Furry Friends](https://github.com/budbee/frontend-assignment/blob/master/FurryFriends_WireFrame.png "Furry Friends Wireframe")
+
 ## Assessment
 
 The result will be assessed based on:
