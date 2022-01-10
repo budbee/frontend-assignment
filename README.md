@@ -18,6 +18,8 @@ It would be nice if one could also sort and search for them, but that might be a
 
 ### Wireframe
 
+_Example wireframe for what a web app could look like. Not a strict requirement._
+
 ![Furry Friends](https://github.com/budbee/frontend-assignment/blob/master/FurryFriends_WireFrame.png "Furry Friends Wireframe")
 
 ## Assessment
